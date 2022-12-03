@@ -7,7 +7,6 @@ def priority(item):
         return item - ord("A") + 27
 
 
-
 s1 = 0
 s2 = 0
 
