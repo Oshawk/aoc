@@ -33,7 +33,7 @@ def main():
             else:
                 if sand_y == 0:
                     part_2 = sands
-                    
+
                 break
 
             if sand_y > max_y and part_1 is None:
